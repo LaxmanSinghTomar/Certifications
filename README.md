@@ -2,9 +2,9 @@
 This repository is dedicated to showcase certifications I've earned.
 
 ## Machine Learning Specialization from University of Washington
-[Machine Learning Foundations](https://coursera.org/share/ffa1fec307660298da89f5a54295f891)
+[Machine Learning Foundations](https://www.coursera.org/account/accomplishments/verify/WNLP34WG8RK6)
 
 ## Deep Learning Specialization from deeplearning.ai
-[Neural Networks and Deep Learning](https://coursera.org/share/97706068b21b69904a2f44e8b5ff65cf)
+[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/AKN3QB842MXV)
 
-[Improving Deep Neural Networks: Hyerparameter Tuning, Regularization and Optimization](https://coursera.org/share/406b970107711c84d2ff6bf6dd201510)
+[Improving Deep Neural Networks: Hyerparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/9CJ8CGRMTP3K)
